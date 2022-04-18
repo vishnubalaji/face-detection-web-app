@@ -1,4 +1,4 @@
-# A face detection web application
+# face-detection-web-application
 
 This repository houses the code for the face detection web application developed using Streamlit and Cloud Vision API. Deployment was done on GCP App Engine using Docker.
 
