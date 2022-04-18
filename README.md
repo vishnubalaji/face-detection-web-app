@@ -1,6 +1,6 @@
 # face-detection-web-application
 
-This repository houses the code for the face detection web application developed using Streamlit and Cloud Vision API. Deployment was done on GCP App Engine using Docker.
+This repository houses the code for the face detection web application developed using **_Streamlit_** and **_Cloud Vision API_**. Deployment was done on GCP _**App Engine**_ using _**Docker**_.
 
 # Tech Stack
 <ul>
@@ -11,7 +11,7 @@ This repository houses the code for the face detection web application developed
   <li> Streamlit </li>
 </ul>
 
-The project💻 is deployed🚀 on Google Cloud Platform and is accessible at <a href="https://vb-project-gcp-347401.uc.r.appspot.com/">GCP project</a> **⬅ Click there**
+This project💻 was deployed🚀 on **Google Cloud Platform** and is accessible at <a href="https://vb-project-gcp-347401.uc.r.appspot.com/">GCP project</a>
 
 # Block diagram
 
